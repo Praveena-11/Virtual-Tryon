@@ -1,0 +1,32 @@
+# Node dependencies
+node_modules/
+
+# Python virtual environment
+backend/venv/
+venv/
+backend/IDM-VTON/
+backend/.env/
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.*
+
+# Build folders
+build/
+dist/
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
